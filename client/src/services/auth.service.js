@@ -1,6 +1,6 @@
 // auth.service.js 創造一個服務的物件，扮演一個服務器的腳色，跟登入有關就來找這
 import axios from "axios";
-const API_URL = "http://localhost:8080/api/user";
+const API_URL = "https://bajohn-mern-project.herokuapp.com/api/user";
 
 class AuthService {
   // methods
