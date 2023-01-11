@@ -1,20 +1,24 @@
 # MERN 專案
 
 MERN 專案是一個前後端整合的專案，包括了 MongoDB, Express.js, React.js 和 Node.js
+
 [線上觀看連結(Heroku)](https://bajohn-mern-project.herokuapp.com/)
 
-##功能
+## 功能
+
 註冊會員，登入會員，教師新增課程和學生註冊課程，並且將專案串聯 MongoDB Atlas 部署在 Heroku 平台上
 
-###測試帳號
+### 測試帳號
 
 教師帳號
+
 ```bash
 帳號： johnny123@gmail.com
 密碼： 123456
 ```
 
 學生帳號
+
 ```bash
 帳號： amber123@gmail.com
 密碼： 123456
@@ -22,13 +26,14 @@ MERN 專案是一個前後端整合的專案，包括了 MongoDB, Express.js, Re
 
 ## 圖文並茂詳細介紹
 
-[詳細介紹](https://www.cakeresume.com/portfolios/mern-774f3f)
+[圖文並茂詳細介紹](https://www.cakeresume.com/portfolios/mern-774f3f)
 
 ## 安裝
 
 Node.js 版本建議為：`16.18.0` 以上
 
 ### 取得專案
+
 ```bash
 git clone https://github.com/Bajohn69/mern-project.git
 ```
@@ -57,11 +62,13 @@ node server.js
 ```
 
 2.client
+
 ```bash
 cd client && npm start
 ```
 
-###開啟專案
+### 開啟專案
+
 ```bash
 http://localhost:3000/
 ```
